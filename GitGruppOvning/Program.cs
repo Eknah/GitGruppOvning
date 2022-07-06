@@ -24,4 +24,6 @@ app.MapControllerRoute(
 	name: "default",
 	pattern: "{controller=Home}/{action=Index}/{id?}");
 
+Console.WriteLine("Welcome to Git i grupp!")
+
 app.Run();
