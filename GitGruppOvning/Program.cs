@@ -43,4 +43,4 @@ int a = 10;
 int b = 20;
 //test2 från Farzin
 string firstName = "Jimmy";
-Console.WriteLine("Tjoohej Vad det går");
+Console.WriteLine("Tjoohej Vad det går");//Test från Ousman
