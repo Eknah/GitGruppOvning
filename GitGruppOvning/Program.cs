@@ -30,6 +30,6 @@ Console.WriteLine("Welcome to Git i grupp! Grupp 2! Happy coding!");
 app.Run();
 
 
-Console.WriteLine("Hej från Andreas!"); 
+Console.WriteLine("Hej från Andreas! Merge conflicts");
+Console.WriteLine("Merge conflicts!");
 Console.WriteLine("Hej hej från Jimmy");
-Console.Write("Farzin");
