@@ -13,7 +13,7 @@ if (!app.Environment.IsDevelopment())
 	app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
@@ -25,7 +25,21 @@ app.MapControllerRoute(
 	pattern: "{controller=Home}/{action=Index}/{id?}");
 
 Console.WriteLine("Welcome to Git i grupp! Grupp 2! Happy coding!");
+	Console.WriteLine("Welcome to Git i grupp! Grupp 2! Happy coding!");
 
-Console.WriteLine("Experimenting with Branches.!");
-
+//Hej
 app.Run();
+
+
+Console.WriteLine("Hej från Andreas! Merge conflicts");
+Console.WriteLine("Merge conflicts!");
+Console.WriteLine("Hej hej från Jimmy");
+Console.WriteLine("Hej från Andreas! Igen");
+Console.WriteLine("Test");
+
+Console.WriteLine("Personlig ändring i Andreas branch");
+
+int a = 10;
+int b = 20;
+//test2 från Farzin
+string firstName = "Jimmy";

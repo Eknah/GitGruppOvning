@@ -15,6 +15,7 @@ namespace GitGruppOvning.Controllers
 
 		public IActionResult Index()
 		{
+			var something = "HejHEjFrånJimmy";
 			return View();
 		}
 
