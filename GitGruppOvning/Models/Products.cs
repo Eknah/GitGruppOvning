@@ -9,7 +9,5 @@ public class Products
     protected string lastName { get; set; }
 
     public int intNumber { get; set; }
-    
-    
 
 }
