@@ -30,3 +30,4 @@ app.Run();
 
 
 Console.WriteLine("Hej från Andreas! Igen");
+Console.WriteLine("Test");
