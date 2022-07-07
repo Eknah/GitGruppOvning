@@ -29,5 +29,7 @@ Console.WriteLine("Welcome to Git i grupp! Grupp 2! Happy coding!")
 app.Run();
 
 
+Console.WriteLine("Hej från Andreas!"); 
+Console.WriteLine("Hej hej från Jimmy");
 Console.WriteLine("Hej från Andreas! Igen");
 Console.WriteLine("Test");
