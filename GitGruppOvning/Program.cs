@@ -13,7 +13,7 @@ if (!app.Environment.IsDevelopment())
 	app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
@@ -27,6 +27,7 @@ app.MapControllerRoute(
 Console.WriteLine("Welcome to Git i grupp! Grupp 2! Happy coding!");
 	Console.WriteLine("Welcome to Git i grupp! Grupp 2! Happy coding!");
 
+//Hej
 app.Run();
 
 
